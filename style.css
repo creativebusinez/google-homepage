@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 10px;  
+}
+
+header nav a {
+    color: #000;
+    opacity: 0.75;
+    padding: 7px 10px 7px 10px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+i {
+    padding-right: 10px;
+}
+
+.sbtn{
+    background-color: #4285f4;
+    width: 75px;
+    height: 30px;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+    outline: none;
+    cursor: default;
+}
+
+section.logo {;
+    text-align: center;
+    max-width: 100%;
+    padding-top: 5%;
+}
