@@ -39,7 +39,6 @@ section.logo {;
     padding-top: 5%;
 }
 
-.mic-icon {
-    height: 25px;
-    width: 25px;
+section.search {
+  background-color: #a0ff00;
 }
