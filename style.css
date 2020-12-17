@@ -1,6 +1,11 @@
 * {
+<<<<<<< HEAD
     padding: 0;
     margin: 0;
+=======
+    margin: 0;
+    padding: 0;
+>>>>>>> 11c99012f319aa6b25391d9a4715eec5905273aa
     box-sizing: border-box;
 }
 
@@ -39,6 +44,7 @@ section.logo {
     padding-top: 5%;
 }
 
+<<<<<<< HEAD
 section.form-container {
     border: 1px solid #dfe1e5;
     border-radius: 24px;
